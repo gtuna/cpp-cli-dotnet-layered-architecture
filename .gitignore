@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+*.pdb
+
+# Log Files
+*.tlog
+
+# Build Folders
+ClientApp/DotNetClientApp/obj/
+CPlusPlusLayer/.vs/
+CPlusPlusLayer/x64/
+CPlusPlusLayer/CPlusPlusLayer/x64/
+CliWrapperLayer/CliWrapperLayer/x64/
