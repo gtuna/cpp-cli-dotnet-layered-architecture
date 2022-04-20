@@ -145,7 +145,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CPlusPlusLayer\CPlusPlusLayer\CPlusPlusLayer.vcxproj">
+    <ProjectReference Include="..\CPlusPlusLayer\CPlusPlusLayer.vcxproj">
       <Project>{1ee9455b-84b7-4eb0-b210-e6ae3c1d16ac}</Project>
     </ProjectReference>
   </ItemGroup>

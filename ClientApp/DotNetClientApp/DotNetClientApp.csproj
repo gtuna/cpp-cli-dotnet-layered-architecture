@@ -45,7 +45,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CliWrapperLayer\CliWrapperLayer\CliWrapperLayer.vcxproj">
+    <ProjectReference Include="..\..\CliWrapperLayer\CliWrapperLayer.vcxproj">
       <Project>{ab2968af-44bb-4183-8126-8821ef880d2d}</Project>
       <Name>CliWrapperLayer</Name>
     </ProjectReference>

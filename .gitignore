@@ -35,9 +35,10 @@
 # Log Files
 *.tlog
 
-# Build Folders
+# Other Folders
 ClientApp/DotNetClientApp/obj/
-CPlusPlusLayer/.vs/
 CPlusPlusLayer/x64/
 CPlusPlusLayer/CPlusPlusLayer/x64/
-CliWrapperLayer/CliWrapperLayer/x64/
+CliWrapperLayer/x64/
+.vs/
+x64/
