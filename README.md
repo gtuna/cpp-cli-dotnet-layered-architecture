@@ -1,3 +1,3 @@
-# C++ - Cli - .net Layered Architecture 
+# C++ - C++/Cli - .Net Layered Architecture 
 
-This project is an example of using a c++ library from c# .net client application through C++/Cli 
+This project is an example of using a c++ library from C# .Net client application through C++/Cli 
